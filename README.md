@@ -14,7 +14,7 @@
 ### Usage
 
 Download MOT16 dataset and trained weights from the following links.   
-’≈Ê∫
+zhangjing
 Put weight files in `data`, then build and run the code. 
 
 ```bash
