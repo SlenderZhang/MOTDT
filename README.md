@@ -13,7 +13,8 @@
 
 ### Usage
 
-Download MOT16 dataset and trained weights from the following links.
+Download MOT16 dataset and trained weights from the following links.   
+’≈Ê∫
 Put weight files in `data`, then build and run the code. 
 
 ```bash
